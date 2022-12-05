@@ -21,8 +21,8 @@
     "lint": "tslint ./src/**/*.ts -t verbose"
   },
   "engines": {
-    "node": "6.9.2",
-    "npm": "4.0.5"
+    "node": "18.x",
+    "npm": "7.0.0"
   },
   "keywords": [],
   "author": "",
